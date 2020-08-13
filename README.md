@@ -1,16 +1,26 @@
-### Hi there 👋
+[Naya In Poland](https://frauvis.s3.amazonaws.com/naya-poland.JPG)
 
-<!--
-**nayamoss/nayamoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏾 Hi, I am Naya Creative Technologist & IT Pro
 
-Here are some ideas to get you started:
+[Creative Brain](https://media.giphy.com/media/VbEuHLBUPQm55MyqJg/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I have 10yrs+ in IT and Security 
+
+🤖 I code for fun in Python, React, and sometimes Vue
+
+🚀 I am the Founder of[ @frauvis](https://twitter.com/frauvis),[ @culturefiytech](https://twitter.com/culturefiytech), and[ @namosstudio](https://twitter.com/namosstudio)
+
+📍Located in Cluj-Napoca, Romania
+
+🤫 Currently also working on Kathrine Johnson Summit
+
+🔑 My Values
+
+*   Impact
+*   Humans First
+*   Integrity
+
+🏆Accomplishments
+*   Led large teams
+*   Started 3 businesses
+*   Traveled to 19 countries 
