@@ -1,4 +1,4 @@
-[Naya In Poland](https://frauvis.s3.amazonaws.com/naya-poland.JPG)
+![Naya In Poland](https://frauvis.s3.amazonaws.com/naya-poland.JPG)
 
 👋🏾 Hi, I am Naya Creative Technologist & IT Pro
 
