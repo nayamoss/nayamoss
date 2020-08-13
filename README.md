@@ -2,7 +2,7 @@
 
 👋🏾 Hi, I am Naya Creative Technologist & IT Pro
 
-<a href="https://giphy.com/gifs/creative-thinking-thinker-VbEuHLBUPQm55MyqJg">via GIPHY</a></p>
+![Creative Brain](https://media.giphy.com/media/VbEuHLBUPQm55MyqJg/giphy.gif)
 
 💼 I have 10yrs+ in IT and Security 
 
