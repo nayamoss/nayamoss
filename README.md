@@ -1,5 +1,4 @@
 # 👋🏾 Hi, I am Naya Creative Technologist & IT Pro
-![Creative Brain](https://media.giphy.com/media/VbEuHLBUPQm55MyqJg/giphy.gif)
 
 | About Me                                                     | 🔑 My Values                                       | 🏆Accomplishments                                             |
 | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
