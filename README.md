@@ -21,7 +21,4 @@
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/nayamoss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nayamoss" /></a></p><br><br>
 
-<h2 align="left">Stats:</h2>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nayamoss&show_icons=true&locale=en" alt="nayamoss" /></p>
-
 <br><br>
