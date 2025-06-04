@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Frauvis](https://frauvis.com) and [Namos Labs](https://namoslabs.com)
 
-- 🌱 I’m currently learning **Laravel and Vue**
-
 - 👨‍💻 All of my projects are available at [https://nayamoss.com](https://nayamoss.com)
 
 <h2 align="left">Connect With Me:</h2>
